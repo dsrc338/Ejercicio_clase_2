@@ -1,2 +1,2 @@
-# Ejercicio_clase_2
+# introduccion_react
 Created with CodeSandbox
